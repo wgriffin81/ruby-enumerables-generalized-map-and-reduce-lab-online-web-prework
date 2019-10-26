@@ -5,6 +5,7 @@ def map
   #return array
 end
 
+map(array){}
 
 
 ##############
