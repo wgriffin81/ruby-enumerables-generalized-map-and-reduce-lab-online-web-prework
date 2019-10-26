@@ -1,8 +1,11 @@
 # Your Code Here
 
 def map
+  new = []
+  base = 
   
-  #return array
+  return new
+  
 end
 
 map(array){}
